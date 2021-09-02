@@ -2,4 +2,6 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
 ZCZC W00 L00 60 read check00.pdf, fill queisioner
-ZCZC W00 L04 120 create GH account, add pages, add log file
+ZCZC W00 L04 80 create GH account, add log file
+ZCZC W00 L04 40 create GH page
+ZCZC W00 L03 60 trying commit, push, pull from repo

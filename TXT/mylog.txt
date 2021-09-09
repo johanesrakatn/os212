@@ -1,7 +1,13 @@
-# Log Format
+# log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
-ZCZC W00 L00 60 read check00.pdf, fill queisioner
-ZCZC W00 L04 80 create GH account, add log file
-ZCZC W00 L04 40 create GH page
-ZCZC W00 L03 60 trying commit, push, pull from repo
+ZCZC W00  60 L00 read check00.pdf, fill queisioner
+ZCZC W00  80 L04 create GH account, add log file
+ZCZC W00  40 L04 create GH page
+ZCZC W00  60 L03 trying commit, push, pull from repo
+ZCZC W01 100 L02 Weekly OS class via ZOOM
+ZCZC W01 120 L11 Setting and dressing up VirtualBox
+ZCZC W01   5 L28 create SSH key for VirtualBox
+ZCZC W01  30 L03 connect to GitHub via VirtualBox
+ZCZC W01  10 L00 updating log
+ZCZC W01  10 L03 try add,commit,push from VirtualBox

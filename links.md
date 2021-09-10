@@ -3,7 +3,8 @@ permalink: /LINKS/
 ---
 
 # LINKS
-## | [HOME](https://johanesrakatn.github.io/test1/)        | [LINKS](https://johanesrakatn.github.io/test1/LINKS)           | [GitHub](https://github.com/johanesrakatn/test1)  |
+## | [HOME](https://johanesrakatn.github.io/os212/)        | [LINKS](https://johanesrakatn.github.io/os212/LINKS)           | [GitHub](https://github.com/johanesrakatn/os212)  |       [LOG](https://github.com/johanesrakatn/os212/blob/1f49d4b3bea037896301af05fe3cc4ca94b52695/TXT/mylog.txt) |
+
 ========================================================================================
 1. [What is an OS?](https://edu.gcfglobal.org/en/computerbasics/understanding-operating-systems/1/)
    Find out more about what is an Operating System

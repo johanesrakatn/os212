@@ -11,3 +11,6 @@ ZCZC W01   5 L28 create SSH key for VirtualBox
 ZCZC W01  30 L03 connect to GitHub via VirtualBox
 ZCZC W01  10 L00 updating log
 ZCZC W01  10 L03 try add,commit,push from VirtualBox
+ZCZC W01  60 L04 dressing up my github page, add links.md
+ZCZC W01  45 L25 learn basic Linux scripts
+ZCZC W01   5 L00 updating log for the last time this week

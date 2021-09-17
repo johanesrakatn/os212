@@ -14,3 +14,10 @@ ZCZC W01  10 L03 try add,commit,push from VirtualBox
 ZCZC W01  60 L04 dressing up my github page, add links.md
 ZCZC W01  45 L25 learn basic Linux scripts
 ZCZC W01   5 L00 updating log for the last time this week
+ZCZC W02 100 L02 Weekly OS class via ZOOM
+ZCZC W02  60 L09 Generate GnuPG Key Pair, importing ospubkey.txt from vlsm.org
+ZCZC W02  20 L19 Update links.md with more links that I think are useful
+ZCZC W02  10 L20 Reviewing my peers links
+ZCZC W02  60 L12 Learning C and trying the Demos
+ZCZC W02  45 L11 Reading the OSC10 chapter 16 and 17 about security
+ZCZC W02  15 L09 Update log, create myscript.sh, finishing up this week's assignments 

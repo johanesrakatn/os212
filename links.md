@@ -5,7 +5,7 @@ permalink: /LINKS/
 # LINKS
 ## | [HOME](https://johanesrakatn.github.io/os212/)        | [LINKS](https://johanesrakatn.github.io/os212/LINKS)           | [GitHub](https://github.com/johanesrakatn/os212)  |       [LOG](https://github.com/johanesrakatn/os212/blob/1f49d4b3bea037896301af05fe3cc4ca94b52695/TXT/mylog.txt) |
 
-=======================================================================================================================================
+<hr>
 1. [What is an OS?](https://edu.gcfglobal.org/en/computerbasics/understanding-operating-systems/1/)<br>
    Find out more about what is an Operating System.
    
@@ -25,3 +25,7 @@ permalink: /LINKS/
 4. [grep, awk and sed – three VERY useful command-line utilities by Matt Probert, Uni of York ](https://www-users.york.ac.uk/~mijp1/teaching/2nd_year_Comp_Lab/guides/grep_awk_sed.pdf)<br>
    This pdf file by Matt Probert will explain how to use(with examples!) and the function of the command grep, awk, and sed in Linux.
 
+
+
+5. [C Programming | In One Video](https://www.youtube.com/watch?v=3lQEunpmtRA)<br>
+   This video is where I started learning C, it covers the very basic of C in a short but clear video

@@ -20,4 +20,11 @@ ZCZC W02  20 L19 Update links.md with more links that I think are useful
 ZCZC W02  10 L20 Reviewing my peers links
 ZCZC W02  60 L12 Learning C and trying the Demos
 ZCZC W02  45 L11 Reading the OSC10 chapter 16 and 17 about security
-ZCZC W02  15 L09 Update log, create myscript.sh, finishing up this week's assignments 
+ZCZC W02  15 L09 Update log, create myscript.sh, finishing up this week's assignments
+ZCZC W03 100 L02 Weekly OS class via ZOOM
+ZCZC W03  65 L15 Create extra Virtual Disk
+ZCZC W03  10 L17 Review peer Links
+ZCZC W03  15 L16 Added 1 link to my links.md
+ZCZC W03  90 L11 Read OSC10 Chapter 13,14,15
+ZCZC W03  60 L09 Trying Week 3 C Demo, read and try to solve previous Mid Term Problems
+

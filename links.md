@@ -29,3 +29,9 @@ permalink: /LINKS/
 
 5. [C Programming | In One Video](https://www.youtube.com/watch?v=3lQEunpmtRA)<br>
    This video is where I started learning C, it covers the very basic of C in a short but clear video
+
+6. [Introduction to Pointers | C Language Tutorial](https://www.youtube.com/watch?v=sY-s7O0FiYE)<br>
+   Unlike java or python, C can use pointers. This concept maybe confusing at first. To get started you can watch this video as an introductory step to C pointers
+
+7. [How Pointers Work in C: Very Basic Explanation](https://www.youtube.com/watch?v=tIIFetrGAdc)<br>
+   As an addition to the last links, this video will also explain the basic of C pointers but this video is shorter, also in this video they compile and run the example program.

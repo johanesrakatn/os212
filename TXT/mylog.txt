@@ -27,4 +27,12 @@ ZCZC W03  10 L17 Review peer Links
 ZCZC W03  15 L16 Added 1 link to my links.md
 ZCZC W03  90 L11 Read OSC10 Chapter 13,14,15
 ZCZC W03  60 L09 Trying Week 3 C Demo, read and try to solve previous Mid Term Problems
-
+ZCZC W04 100 L02 Weekly OS class via ZOOM
+ZCZC W04  60 L15 Doing assignment related to WEEK04.tar.bz2.asc
+ZCZC W04  50 L11 Read OSC chapter 9
+ZCZC W04  65 L09 Try demos and midterm problems
+ZCZC W04  15 L06 Reading the material from slide W04
+ZCZC W04  15 L32 Lerning about pointers in C from Youtube
+ZCZC W04   5 l16 Update LINKS
+ZCZC W04  10 L17 Review peer LINKS
+ZCZC W04   5 L18 Update mylog

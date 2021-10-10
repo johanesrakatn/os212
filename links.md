@@ -35,3 +35,9 @@ permalink: /LINKS/
 
 7. [How Pointers Work in C: Very Basic Explanation](https://www.youtube.com/watch?v=tIIFetrGAdc)<br>
    As an addition to the last links, this video will also explain the basic of C pointers but this video is shorter, also in this video they compile and run the example program.
+
+8. [Learn Cut, Copy, Paste in Vim](https://vim.fandom.com/wiki/Copy,_cut_and_paste)<br>
+   If you use vim, this is a great article to show you how to cut, copy, and paste in vim.
+
+9. [Introduction to Memory Management in Linux](https://www.youtube.com/watch?v=7aONIVSXiJ8)<br>
+   This video will show you the basic of memory management in Linux. The video is long, but it has the timestamps of diffrent part of it if you only want to view certain parts.

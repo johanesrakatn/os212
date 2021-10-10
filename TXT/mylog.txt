@@ -36,3 +36,10 @@ ZCZC W04  15 L32 Lerning about pointers in C from Youtube
 ZCZC W04   5 l16 Update LINKS
 ZCZC W04  10 L17 Review peer LINKS
 ZCZC W04   5 L18 Update mylog
+ZCZC W05 100 L02 Weekly OS class via ZOOM
+ZCZC W05 120 L14 Doing the assignment Week 5 related to memory
+ZCZC W05  30 L09 Read a bit of OSC10 chapter 10 and reviewing mid-term problems
+ZCZC W05  30 L06 GSGS about virtual memory
+ZCZC W05   5 L15 Update LINKS
+ZCZC W05  15 L17 Review peer's links
+ZCZC W05  10 L18 Update mylog 

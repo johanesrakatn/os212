@@ -42,4 +42,11 @@ ZCZC W05  30 L09 Read a bit of OSC10 chapter 10 and reviewing mid-term problems
 ZCZC W05  30 L06 GSGS about virtual memory
 ZCZC W05   5 L15 Update LINKS
 ZCZC W05  15 L17 Review peer's links
-ZCZC W05  10 L18 Update mylog 
+ZCZC W05  10 L18 Update mylog
+ZCZC W06  90 L32 Async OS Class via Youtube videos
+ZCZC W06 100 L02 Sync Weekly OS class via ZOOM
+ZCZC W06 100 L09 Doing W06 assignment
+ZCZC W06  15 L17 review peer links 
+ZCZC W06  15 L15 Search and update my LINKS
+ZCZC W06   5 L18 Update mylog.txt
+

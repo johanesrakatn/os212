@@ -49,4 +49,9 @@ ZCZC W06 100 L09 Doing W06 assignment
 ZCZC W06  15 L17 review peer links 
 ZCZC W06  15 L15 Search and update my LINKS
 ZCZC W06   5 L18 Update mylog.txt
-
+ZCZC W07 130 L32 Async OS Class via Youtube
+ZCZC W07 100 L02 Sync Weekly OS class via ZOOM
+ZCZC W07 120 L09 Doing W07 assignment
+ZCZC W07  15 L15 Update links.md
+ZCZC W07  20 L17 Review peer links
+ZCZC W07  10 L18 Update mylog.txt

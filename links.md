@@ -42,4 +42,6 @@ permalink: /LINKS/
 9. [Introduction to Memory Management in Linux](https://www.youtube.com/watch?v=7aONIVSXiJ8)<br>
    This video will show you the basic of memory management in Linux. The video is long, but it has the timestamps of diffrent part of it if you only want to view certain parts.
 
-10. [fork() system call in C](https://www.geeksforgeeks.org/fork-system-call/)<br> This page will explain the basic of what is forking (fork()) especially in C language. This page also has links to more indepth explanation of fork() at the end of the file
+10. [fork() system call in C](https://www.geeksforgeeks.org/fork-system-call/)<br> This page will explain the basic of what is forking (fork()) especially in C language. This page also has links to more indepth explanation of fork() at the end of the file.
+
+11. [Introduction to Synchronization](https://www.javatpoint.com/os-process-synchronization-introduction)<br> This article in javatpoint will introduce you to the topik of Synchronization.

@@ -44,4 +44,7 @@ permalink: /LINKS/
 
 10. [fork() system call in C](https://www.geeksforgeeks.org/fork-system-call/)<br> This page will explain the basic of what is forking (fork()) especially in C language. This page also has links to more indepth explanation of fork() at the end of the file.
 
-11. [Introduction to Synchronization](https://www.javatpoint.com/os-process-synchronization-introduction)<br> This article in javatpoint will introduce you to the topik of Synchronization.
+11. [Introduction to Synchronization](https://www.javatpoint.com/os-process-synchronization-introduction)<br> This article in javatpoint will introduce you to the topic of Synchronization.
+
+12. [Linux From Scratch Homepage](https://www.linuxfromscratch.org)<br>
+Linux From Scratch is a project that provides step-by-step instructions to make your own linux system. The main purposes of this project is to understand how a linux system actually works and all the process and dependencies that gous into making a linux Operating System.

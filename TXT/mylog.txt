@@ -55,3 +55,13 @@ ZCZC W07 120 L09 Doing W07 assignment
 ZCZC W07  15 L15 Update links.md
 ZCZC W07  20 L17 Review peer links
 ZCZC W07  10 L18 Update mylog.txt
+ZCZC W10 100 L02 Sync Weekly OS class via zoom
+ZCZC W10  60 L09 Doing LFS chapter 1 to 4
+ZCZC W10 120 L09 Doing LFS chapter 5 + cleaning up
+ZCZC W10 100 L09 Doing LFS chapter 6 + cleaning up
+ZCZC W10 120 L09 Doing LFS chapter 7 + cleaning up
+ZCZC W10 540 L14 Doing LFS chapter 8
+ZCZC W10  10 L15 update LINKS
+ZCZC W10  10 L17 review my peer links
+ZCZC W10   5 L18 update mylog.txt
+ZCZC W10   5 L19 check SHA256SUM and submit
